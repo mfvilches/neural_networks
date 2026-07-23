@@ -1,5 +1,12 @@
 __pycache__
 .env
 .learn
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
 **/*.jpg
+**/*.jpeg
+**/*.JPG
+**/*.JPEG
 data/*
